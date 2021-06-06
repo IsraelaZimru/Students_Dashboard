@@ -1,0 +1,128 @@
+body {
+  background-image: url("./imgs/main2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+}
+small {
+  display: block;
+}
+
+th {
+  background-color: #343a40;
+  color: white;
+}
+
+.rowStyle {
+  cursor: pointer;
+  /* color: black; */
+  background-color: rgba(0, 0, 0, 0.397);
+}
+
+.rowStyle:hover {
+  color: rgb(245, 238, 238);
+  font-size: 18px;
+}
+
+.navStyle {
+  justify-content: space-between;
+  height: 50px;
+}
+
+.h1Style {
+  margin-top: 60px;
+  font-size: 80px;
+  font-weight: 900;
+  color: rgb(124, 99, 99);
+  /* color: rgb(107, 40, 40); */
+}
+
+.h1font {
+  font-family: Papyrus;
+}
+.main {
+  text-align: center;
+  /* width: 70%; */
+}
+.formStyle {
+  /* background-color: red; */
+  background-image: url("./imgs/picMode.jpg");
+  background-size: cover;
+  color: rgba(110, 212, 238, 0.808);
+}
+
+.fontStlye {
+  font-family: Brush Script MT;
+}
+
+.btnGenStyle {
+  width: 80px;
+}
+
+.block {
+  display: block;
+}
+
+.cardInfo {
+  border: 2px solid rgb(97, 95, 95);
+  /* padding: 10px; */
+  box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.808);
+  width: 520px;
+  height: 400px;
+  border-radius: 40px;
+  background-color: rgba(0, 0, 0, 0.582);
+  color: white;
+}
+
+.hrCard {
+  border: 2px solid white;
+}
+
+.maginBtn {
+  margin-right: "7px";
+}
+
+#crdImg {
+  height: 200px;
+  width: 150px;
+  text-align: center;
+}
+
+#btnControl Button {
+  margin: 10px;
+  width: 120px;
+  background-color: black;
+  color: white;
+  border-color: black;
+  font-size: 12px;
+}
+
+#genderMsg {
+  color: #dc354b;
+  margin-top: 4px;
+}
+
+#hrApp {
+  border: 3px solid rgb(107, 40, 40);
+  width: 90%;
+}
+
+#extBtn {
+  background-color: rgba(0, 0, 0, 0);
+  border-color: rgba(0, 0, 0, 0);
+  color: white;
+  width: 25px;
+  text-align: right;
+}
+
+#msgDefault {
+  margin: 70px 70px;
+  padding: 40px 30px;
+  font-size: 20px;
+  border-radius: 30%;
+  text-align: center;
+  color: aquamarine;
+  background-color: rgba(0, 0, 0, 0.397);
+  width: 400px;
+  height: 150px;
+}
