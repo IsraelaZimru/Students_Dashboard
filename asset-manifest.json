@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Students_Dashboard/static/css/main.3d54b087.chunk.css",
+    "main.js": "/Students_Dashboard/static/js/main.506dbbb8.chunk.js",
+    "main.js.map": "/Students_Dashboard/static/js/main.506dbbb8.chunk.js.map",
+    "runtime-main.js": "/Students_Dashboard/static/js/runtime-main.5931f7b1.js",
+    "runtime-main.js.map": "/Students_Dashboard/static/js/runtime-main.5931f7b1.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Students_Dashboard/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.4e103ffb.chunk.js": "/Students_Dashboard/static/js/2.4e103ffb.chunk.js",
+    "static/js/2.4e103ffb.chunk.js.map": "/Students_Dashboard/static/js/2.4e103ffb.chunk.js.map",
+    "static/js/3.59aa429a.chunk.js": "/Students_Dashboard/static/js/3.59aa429a.chunk.js",
+    "static/js/3.59aa429a.chunk.js.map": "/Students_Dashboard/static/js/3.59aa429a.chunk.js.map",
+    "index.html": "/Students_Dashboard/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Students_Dashboard/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.3d54b087.chunk.css.map": "/Students_Dashboard/static/css/main.3d54b087.chunk.css.map",
+    "static/js/2.4e103ffb.chunk.js.LICENSE.txt": "/Students_Dashboard/static/js/2.4e103ffb.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/Students_Dashboard/static/media/picMode.1d48c1e7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5931f7b1.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.4e103ffb.chunk.js",
+    "static/css/main.3d54b087.chunk.css",
+    "static/js/main.506dbbb8.chunk.js"
+  ]
+}
